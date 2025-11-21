@@ -346,7 +346,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **CtoXpLt_**
 
-- GitHub: [@CtoXpLt_](https://github.com/CtoXpLt_)
+- GitHub: [@CtoXpLt_](https://github.com/CtoXplt)
 
 ---
 
@@ -385,7 +385,7 @@ If you found this tool helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ by CtoXpLt_**
+**Made with ❤️ by CtoXplt**
 
 *Happy Hunting! 🎯*
 
